@@ -1,9 +1,10 @@
-{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/and_gate_level.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/and_gate_level.v}
+{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_cominational_logic_model.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_cominational_logic_model.v}
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module and_gate_level
--- Compiling module test_and_gate_level
+-- Compiling module and_combinational_logic_model
+-- Compiling module test_and_combinational_logic_model
 
 Top level modules:
-	test_and_gate_level
+	and_combinational_logic_model
+	test_and_combinational_logic_model
 
 } {} {}}

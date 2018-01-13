@@ -1,3 +1,5 @@
+// A boolean function to return 1 when majority of bits are equal to 1, return 0 otherwise
+// 4 bit majority function
 primitive four_bit_majority_function(e,a,b,c,d);
     output e;
     input a,b,c,d;

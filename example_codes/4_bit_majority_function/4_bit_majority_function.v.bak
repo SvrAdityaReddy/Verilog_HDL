@@ -24,7 +24,7 @@ endprimitive
 
 module fourbit(e,a,b,c,d);
     output e;
-    input a,b,c,d,e;
+    input a,b,c,d;
     four_bit_majority_function g(e,a,b,c,d);
 endmodule
 

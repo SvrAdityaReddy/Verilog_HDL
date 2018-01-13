@@ -9,6 +9,7 @@ endmodule
 module test_and_combinational_logic_model();
     wire c;
     reg a,b;
+    and_combinational_logic_model g(c,a,b);
     initial
 	begin
 	    a=0;b=0;

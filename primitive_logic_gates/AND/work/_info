@@ -9,13 +9,13 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
 vand_combinational_logic_model
-Z0 !s110 1515845597
+Z0 !s110 1515846724
 !i10b 1
 !s100 Z5oVJED^9E40WRP4KVD3P2
 IQ;;hjD71nCS1ICXmgTac52
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND
-Z3 w1515845197
+Z3 w1515846217
 Z4 8C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_cominational_logic_model.v
 Z5 FC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_cominational_logic_model.v
 L0 1
@@ -23,7 +23,7 @@ Z6 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z7 !s108 1515845597.000000
+Z7 !s108 1515846724.000000
 Z8 !s107 C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_cominational_logic_model.v|
 Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_cominational_logic_model.v|
 !s101 -O0
@@ -50,11 +50,53 @@ Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aditya Reddy/Docume
 !s101 -O0
 !i113 1
 R10
+vand_user_defined_model
+Z16 !s110 1515846725
+!i10b 1
+!s100 gWg@:oXJ]F0HLViCz7SZh1
+IbAD1LzKZ^jYSeZWROZZk72
+R1
+R2
+Z17 w1515846192
+Z18 8C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_user_defined_model.v
+Z19 FC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_user_defined_model.v
+L0 13
+R6
+r1
+!s85 0
+31
+Z20 !s108 1515846725.000000
+Z21 !s107 C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_user_defined_model.v|
+Z22 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/primitive_logic_gates/AND/and_user_defined_model.v|
+!s101 -O0
+!i113 1
+R10
+Umy_and
+R16
+!i10b 1
+!s100 H8I`SRSDiH6Vj6fkRF<bf3
+Iz`zokfTmV2h9Vg2S3>Q_62
+R1
+R2
+R17
+R18
+R19
+L0 1
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+!i113 1
+R10
 vtest_and_combinational_logic_model
 R0
 !i10b 1
-!s100 c2F;no2_[[WUl@<0c@SKb3
-Ifj9K[@XF[63?]d8^a=8[k3
+!s100 <J?3f@@HdLo9fEb3h:^PO2
+I>HVCebE85_kQB3WI0S1`R0
 R1
 R2
 R3
@@ -89,6 +131,27 @@ r1
 R7
 R14
 R15
+!s101 -O0
+!i113 1
+R10
+vtest_and_user_defined_model
+R16
+!i10b 1
+!s100 a?Y:DJjCJ9>4G<RQKGJin3
+I?^a6Uc_0W1jM=F:=b^Pi03
+R1
+R2
+R17
+R18
+R19
+L0 19
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
 !s101 -O0
 !i113 1
 R10

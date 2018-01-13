@@ -1,0 +1,9 @@
+{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/3_to_8_decoder/3_to_8_decoder.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/3_to_8_decoder/3_to_8_decoder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module decoder_3_to_8
+-- Compiling module test_decoder_3_to_8
+
+Top level modules:
+	test_decoder_3_to_8
+
+} {} {}}

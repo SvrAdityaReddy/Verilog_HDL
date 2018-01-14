@@ -1,5 +1,5 @@
-// 3:8 decoder with enable pin when enable pin is zero all output pins are zero
-//https://www.elprocus.com/designing-3-line-to-8-line-decoder-demultiplexer/
+//3:8 decoder with enable pin when enable pin is zero all output pins are zero
+//https://www.electronicshub.org/binary-decoder/
 
 module decoder_3_to_8(D,x,y,z,enable);
     output [0:7] D;
@@ -25,12 +25,12 @@ module test_decoder_3_to_8();
     initial
 	begin
 	    enable=1;x=0;y=0;z=0;
-	    #50 enable=1;x=0;y=0;z=1;
-       	    #50 enable=1;x=0;y=1;z=0;
-	    #50 enable=1;x=0;y=1;z=1;
-	    #50 enable=1;x=1;y=0;z=0;
-	    #50 enable=1;x=1;y=0;z=1;
-	    #50 enable=1;x=1;y=1;z=0;
-	    #50 enable=1;x=1;y=1;z=1;
+	    enable=1;x=0;y=0;z=1;
+       	    enable=1;x=0;y=1;z=0;
+	    enable=1;x=0;y=1;z=1;
+	    enable=1;x=1;y=0;z=0;
+	    enable=1;x=1;y=0;z=1;
+	    enable=1;x=1;y=1;z=0;
+	    enable=1;x=1;y=1;z=1;
 	end
 endmodule

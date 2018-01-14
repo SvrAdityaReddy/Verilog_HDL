@@ -1,0 +1,27 @@
+// 4 bit adder
+// dataflow model
+
+module adder_4_bit(cout,Sum,A,B,cin);
+    output [3:0] Sum;
+    output cout;
+    input [3:0] A;
+    input [3:0] B;
+    input cin;
+    assign {cout,Sum}=A+B+cin;
+endmodule
+
+// test bench code
+
+module test_adder_4_bit();
+    wire [3:0] Sum;
+    wire cout;
+    reg [3:0] A;
+    reg [3:0] B;
+    reg cin;
+    adder_4_bit G(cout,Sum,A,B,cin);
+    initial
+	begin
+	    A=4'b0111;B=4'b1110;cin=0;
+	    #100 A=4'b0001;B=4'b0010;cin=0;
+	end
+endmodule

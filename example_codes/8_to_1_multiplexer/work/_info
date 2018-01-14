@@ -9,10 +9,10 @@ z2
 cModel Technology
 dC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/3_to_8_decoder
 vmultiplexer_8_to_1
-Z0 !s110 1515888174
+Z0 !s110 1515945497
 !i10b 1
 !s100 GWUOD4hRY:zQbW=]cT^dG3
-INAJS9EMlPUGJ1K@^6MB3N0
+IRNX2locZD;8a@Gd<9z5=U0
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/8_to_1_multiplexer
 Z3 w1515888167
@@ -23,17 +23,17 @@ Z6 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z7 !s108 1515888174.000000
+Z7 !s108 1515945497.000000
 Z8 !s107 C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/8_to_1_multiplexer/multiplexer_8_to_1.v|
-Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/8_to_1_multiplexer/multiplexer_8_to_1.v|
+Z9 !s90 -reportprogress|300|-work|work|-vlog95compat|-stats=none|C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/8_to_1_multiplexer/multiplexer_8_to_1.v|
 !s101 -O0
 !i113 1
-Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+Z10 o-work work -vlog95compat -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
 vtest_multiplexer_8_to_1
 R0
 !i10b 1
 !s100 a4<>Ren85GDb_N@F2I?D;2
-IaS4iX^2WE`Cgo6Q[P>5?k3
+IoJ5jhI20gD5`NFHX_U^;<0
 R1
 R2
 R3

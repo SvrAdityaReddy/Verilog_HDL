@@ -1,1 +1,9 @@
+{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/adder_4_bit_data_flow_model.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/adder_4_bit_data_flow_model.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_4_bit
+-- Compiling module test_adder_4_bit
 
+Top level modules:
+	test_adder_4_bit
+
+} {} {}}

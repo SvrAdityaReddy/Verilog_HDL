@@ -9,13 +9,13 @@ z2
 cModel Technology
 dC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/3_to_8_decoder
 vmultiplexer_8_to_1
-Z0 !s110 1515945497
+Z0 !s110 1515952744
 !i10b 1
 !s100 GWUOD4hRY:zQbW=]cT^dG3
 IRNX2locZD;8a@Gd<9z5=U0
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/8_to_1_multiplexer
-Z3 w1515888167
+Z3 w1515952731
 Z4 8C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/8_to_1_multiplexer/multiplexer_8_to_1.v
 Z5 FC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/8_to_1_multiplexer/multiplexer_8_to_1.v
 L0 4
@@ -23,7 +23,7 @@ Z6 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z7 !s108 1515945497.000000
+Z7 !s108 1515952744.000000
 Z8 !s107 C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/8_to_1_multiplexer/multiplexer_8_to_1.v|
 Z9 !s90 -reportprogress|300|-work|work|-vlog95compat|-stats=none|C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/8_to_1_multiplexer/multiplexer_8_to_1.v|
 !s101 -O0

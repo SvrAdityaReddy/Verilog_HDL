@@ -7,17 +7,19 @@ module multiplexer_8_to_1(Y,D,S);
     input [0:2] S;
     wire [0:2] not_S;
     wire [0:7] I;
-    not G1(not_S[0],S[0]);
-    not G2(not_S[1],S[1]);
-    not G3(not_S[2],S[2]);
-    and G4(I[0],not_S[0],not_S[1],not_S[2]);
-    and G5(I[1],S[0],not_S[1],not_S[2]);
-    and G6(I[2],not_S[0],S[1],not_S[2]);
-    and G7(I[3],S[0],S[1],not_S[2]);
-    and G8(I[4],not_S[0],not_S[1],S[2]);
-    and G9(I[5],S[0],not_S[1],S[2]);
-    and G10(I[6],not_S[0],S[1],S[2]);
-    and G11(I[7],S[0],S[1],S[2]);
+    not 
+	G1(not_S[0],S[0]);
+ 	G2(not_S[1],S[1]);
+    	G3(not_S[2],S[2]);
+    and	
+	G4(I[0],D[0],not_S[0],not_S[1],not_S[2]);
+    	G5(I[1],D[1],S[0],not_S[1],not_S[2]);
+    	G6(I[2],D[2],not_S[0],S[1],not_S[2]);
+    	G7(I[3],D[3],S[0],S[1],not_S[2]);
+    	G8(I[4],D[4],not_S[0],not_S[1],S[2]);
+    	G9(I[5],D[5],S[0],not_S[1],S[2]);
+    	G10(I[6],D[6],not_S[0],S[1],S[2]);
+    	G11(I[7],D[7],S[0],S[1],S[2]);
     or G12(Y,I[0],I[2],I[3],I[4],I[5],I[6],I[7]);
 endmodule
 

@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
 vadder_4_bit
-Z0 !s110 1515951283
+Z0 !s110 1515953919
 !i10b 1
 !s100 ZIoM2eNJczP:oN<O7lT160
 IPRQ<7Qk4nh6z6739_M]kT0
@@ -23,12 +23,75 @@ Z6 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z7 !s108 1515951283.000000
+Z7 !s108 1515953919.000000
 Z8 !s107 C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/adder_4_bit_data_flow_model.v|
 Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/adder_4_bit_data_flow_model.v|
 !s101 -O0
 !i113 1
 Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vfull_adder
+R0
+!i10b 1
+!s100 n<5i`zko5i>4]ERm4L7cK0
+Ia<7VnFO@WoI;eFPn;JZ[R2
+R1
+R2
+Z11 w1515953913
+Z12 8C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/ripple_carry_adder_4_bit.v
+Z13 FC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/ripple_carry_adder_4_bit.v
+L0 12
+R6
+r1
+!s85 0
+31
+R7
+Z14 !s107 C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/ripple_carry_adder_4_bit.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/ripple_carry_adder_4_bit.v|
+!s101 -O0
+!i113 1
+R10
+vhalf_adder
+R0
+!i10b 1
+!s100 LO^l7JhX^e5YnjEASgUZ=2
+I;V@U]oZWBI`lh3SXSo`hz1
+R1
+R2
+R11
+R12
+R13
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R14
+R15
+!s101 -O0
+!i113 1
+R10
+vripple_carry_adder_4_bit
+R0
+!i10b 1
+!s100 hCFPN03VSN28:4fEb>H6h3
+I=d0CTIl00nA2TIQR<gEjQ3
+R1
+R2
+R11
+R12
+R13
+L0 22
+R6
+r1
+!s85 0
+31
+R7
+R14
+R15
+!s101 -O0
+!i113 1
+R10
 vtest_adder_4_bit
 R0
 !i10b 1
@@ -47,6 +110,27 @@ r1
 R7
 R8
 R9
+!s101 -O0
+!i113 1
+R10
+vtest_ripple_carry_adder_4_bit
+R0
+!i10b 1
+!s100 o@0ELoMhf:klY44=`3[>33
+IZLGZDYe1no8cJMFz4Q=7U1
+R1
+R2
+R11
+R12
+R13
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R14
+R15
 !s101 -O0
 !i113 1
 R10

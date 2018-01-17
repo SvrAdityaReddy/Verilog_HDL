@@ -1,0 +1,9 @@
+{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/D_latch/d_latch.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/D_latch/d_latch.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_latch
+-- Compiling module test_D_latch
+
+Top level modules:
+	test_D_latch
+
+} {} {}}

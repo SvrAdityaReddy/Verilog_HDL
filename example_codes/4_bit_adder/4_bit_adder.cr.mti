@@ -1,4 +1,14 @@
-{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/adder_4_bit_data_flow_model.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/adder_4_bit_data_flow_model.v}
+{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/ripple_carry_adder_4_bit.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/ripple_carry_adder_4_bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module half_adder
+-- Compiling module full_adder
+-- Compiling module ripple_carry_adder_4_bit
+-- Compiling module test_ripple_carry_adder_4_bit
+
+Top level modules:
+	test_ripple_carry_adder_4_bit
+
+} {} {}} {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/adder_4_bit_data_flow_model.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/4_bit_adder/adder_4_bit_data_flow_model.v}
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module adder_4_bit
 -- Compiling module test_adder_4_bit

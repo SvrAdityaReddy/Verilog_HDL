@@ -9,13 +9,13 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
 vmemory_design
-Z0 !s110 1516373417
+Z0 !s110 1516374035
 !i10b 1
 !s100 PfjIiWl]7@Wk]=0@Q60:Q0
 I^iA0]dgbV0>n6M?SIcCbW0
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/memory_design
-Z3 w1516373404
+Z3 w1516374029
 Z4 8C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/memory_design/memory_design.v
 Z5 FC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/memory_design/memory_design.v
 L0 4
@@ -23,7 +23,7 @@ Z6 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z7 !s108 1516373417.000000
+Z7 !s108 1516374035.000000
 Z8 !s107 C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/memory_design/memory_design.v|
 Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/memory_design/memory_design.v|
 !s101 -O0

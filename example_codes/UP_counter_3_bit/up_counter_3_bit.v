@@ -31,7 +31,7 @@ module up_counter_3_bit(output [2:0] Q_b, input clk);
     or G7(I5,I4,I3);
     D_flip_flop G8(Q_b[2],I5,clk);
     always @*
-        Q=Q_b;
+        Q<=Q_b;
     // and G9(Q[0],Q_b[0],1);
     // and G10(Q[1],Q_b[1],1);
     // and G11(Q[2],Q_b[2],1);

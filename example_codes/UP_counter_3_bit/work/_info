@@ -9,13 +9,13 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
 vD_flip_flop
-Z0 !s110 1516735905
+Z0 !s110 1516736433
 !i10b 1
 !s100 ^O7T@X_TKGcgiGe`681MM3
 I2[31?3n2_Y]B5P]_mOF`O3
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/UP_counter_3_bit
-Z3 w1516735899
+Z3 w1516736409
 Z4 8C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/UP_counter_3_bit/up_counter_3_bit.v
 Z5 FC:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/UP_counter_3_bit/up_counter_3_bit.v
 L0 5
@@ -23,7 +23,7 @@ Z6 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z7 !s108 1516735905.000000
+Z7 !s108 1516736433.000000
 Z8 !s107 C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/UP_counter_3_bit/up_counter_3_bit.v|
 Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/UP_counter_3_bit/up_counter_3_bit.v|
 !s101 -O0
@@ -33,8 +33,8 @@ n@d_flip_flop
 vtest_up_counter_3_bit
 R0
 !i10b 1
-!s100 IFQ3QAZF2XDc6BDB<`6HA2
-Ic:T]<]hV7_a^=HQIKLc?h2
+!s100 dC3bUYXEG:1i_S^KNBKlH1
+Imo5?bh:S9P^E^=@XYj>LS0
 R1
 R2
 R3

@@ -49,7 +49,6 @@ module test_up_counter_3_bit();
     initial
         begin
             clk=0;
-	    #50 clk=0;
             #50 clk=1;
             #50 clk=0;
             #50 clk=1;

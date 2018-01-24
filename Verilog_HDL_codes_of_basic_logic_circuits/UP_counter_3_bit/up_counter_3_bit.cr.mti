@@ -1,4 +1,4 @@
-{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/UP_counter_3_bit/up_counter_3_bit.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/example_codes/UP_counter_3_bit/up_counter_3_bit.v}
+{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/Verilog_HDL_codes_of_basic_logic_circuits/UP_counter_3_bit/up_counter_3_bit.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/Verilog_HDL_codes_of_basic_logic_circuits/UP_counter_3_bit/up_counter_3_bit.v}
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module D_flip_flop
 -- Compiling module up_counter_3_bit

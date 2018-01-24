@@ -21,7 +21,7 @@ module up_counter_3_bit(output [2:0] Q_b, input clk);
     wire I1,I2,I3,I4,I5;
     reg [2:0] Q;
     initial
-        Q<=3'b000;
+        Q<=3'b111;
     D_flip_flop G1(Q_b[0],~Q[0],clk);
     xor G2(I1,Q[1],Q[0]);
     D_flip_flop G3(Q_b[1],I1,clk);
@@ -61,6 +61,8 @@ module test_up_counter_3_bit();
             #50 clk=0;
             #50 clk=1;
             #50 clk=0;
+            #50 clk=1;
+	    #50 clk=0;
             #50 clk=1;
         end
 endmodule

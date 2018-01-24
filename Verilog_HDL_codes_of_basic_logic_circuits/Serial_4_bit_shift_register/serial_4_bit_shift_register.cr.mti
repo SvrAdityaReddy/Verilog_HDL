@@ -1,0 +1,10 @@
+{C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/Verilog_HDL_codes_of_basic_logic_circuits/Serial_4_bit_shift_register/4_bit_serial_shift_register.v} {1 {vlog -work work -stats=none {C:/Users/Aditya Reddy/Documents/GitHub/Verilog_HDL/Verilog_HDL_codes_of_basic_logic_circuits/Serial_4_bit_shift_register/4_bit_serial_shift_register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_flip_flop
+-- Compiling module shift_register
+-- Compiling module test_shift_register
+
+Top level modules:
+	test_shift_register
+
+} {} {}}
